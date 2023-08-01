@@ -22,14 +22,14 @@ This is a login with Passport.js app built with Express on the backend and React
 
 To start the backend server, run the following command:
 
-npm run start
+## npm run start
 
 
 The backend server will be running on `http://localhost:5000`.
 
 To start the frontend, navigate to the "client" folder and run the following command:
 
-npm run start
+## npm run start
 
 
 
